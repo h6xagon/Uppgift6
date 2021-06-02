@@ -1,0 +1,10 @@
+C:\Users\esotc\source\repos\2CLSK\bin\Debug\2CLSK.exe.config
+C:\Users\esotc\source\repos\2CLSK\bin\Debug\2CLSK.exe
+C:\Users\esotc\source\repos\2CLSK\bin\Debug\2CLSK.pdb
+C:\Users\esotc\source\repos\2CLSK\obj\Debug\2CLSK.csprojAssemblyReference.cache
+C:\Users\esotc\source\repos\2CLSK\obj\Debug\_2CLSK.Form1.resources
+C:\Users\esotc\source\repos\2CLSK\obj\Debug\_2CLSK.Properties.Resources.resources
+C:\Users\esotc\source\repos\2CLSK\obj\Debug\2CLSK.csproj.GenerateResource.cache
+C:\Users\esotc\source\repos\2CLSK\obj\Debug\2CLSK.csproj.CoreCompileInputs.cache
+C:\Users\esotc\source\repos\2CLSK\obj\Debug\2CLSK.exe
+C:\Users\esotc\source\repos\2CLSK\obj\Debug\2CLSK.pdb
